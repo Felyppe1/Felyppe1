@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Movie Theater Project**
 
-- 🌱 I’m currently learning **Domain-Driven Design and Cloud **
+- 🌱 I’m currently learning **Domain-Driven Design and Cloud**
 
 - 👨‍💻 All of my projects are available at [https://portfolio.felyppenunes.live/](https://portfolio.felyppenunes.live/)
 

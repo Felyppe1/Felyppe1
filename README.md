@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=felyppe1&label=Profile%20views&color=0e75b6&style=flat" alt="felyppe1" /> </p>
 
-- 🔭 I’m currently working on **Movie Theater**
+- 🔭 I’m currently working on **Movie Theater Project**
 
-- 🌱 I’m currently learning **NodeJS and AWS**
+- 🌱 I’m currently learning **Domain-Driven Design and Cloud **
 
 - 👨‍💻 All of my projects are available at [https://portfolio.felyppenunes.live/](https://portfolio.felyppenunes.live/)
 
